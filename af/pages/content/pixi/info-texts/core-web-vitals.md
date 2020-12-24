@@ -1,0 +1,5 @@
+---
+"$title": Kernweb-vitamiene
+---
+
+**Core Web Vitals** meet die kwaliteit van gebruikerservaring op alle webbladsye. Dit is 'n deel van Google Web Vitals, 'n inisiatief om verenigde leiding te gee vir die lewering van 'n uitstekende webervaring. [Lees meer](https://web.dev/vitals/) .<br><br> **Veldtoetse** beklemtoon prestasiefaktore wat laboratoriumtoetse miskyk. RUM is die enigste manier om te meet hoe u werf vir u gebruikers presteer. [Lees meer](https://web.dev/user-centric-performance-metrics/#in-the-field) .<br><br> **Met laboratoriumtoetse** kan u nuwe funksies toets voordat dit vrygestel word om die beste prestasieverswakking te verseker. [Lees meer](https://web.dev/user-centric-performance-metrics/#in-the-lab) .<br><br> **Geleentheid om te verbeter,** is die verskil in tellings vir die AMP-bladsy wat op oorsprong en sy eweknie geliasseer word. 'N Status van "Geen" word gerapporteer as die oorspronklike bladsy reeds vergelykbaar presteer as sy eweknie, terwyl die status van "---" gerapporteer word as daar geen inligting oor die gebergde bladsy beskikbaar is nie.
