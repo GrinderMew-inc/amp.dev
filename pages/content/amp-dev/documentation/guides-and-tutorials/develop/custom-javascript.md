@@ -11,6 +11,8 @@ contributors:
 description: A guide to using amp-script, an AMP component that allows you to write custom JavaScript
 ---
 
+Test
+
 `amp-script` lets you write and run your own JavaScript in a way that maintains AMP's performance guarantees. Most AMP components enable common web interactions through their own logic, letting you build your page quickly without writing JavaScript or importing third-party libraries. By using `amp-script`, you can embrace custom logic for specific use cases or unique needs without losing AMP's benefits.
 
 This guide provides background on this component and best practices for its use.
